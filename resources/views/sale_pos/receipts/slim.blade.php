@@ -489,7 +489,8 @@
 				<p class="centered"><h5>
 					{{--					{!! $receipt_details->footer_text !!}--}}
 
-					Mpesa Paybill:522522  -A/C No:5849468
+					Mpesa Paybill:247247  -A/C No:478060
+					Till No:9980125
 
 					<p><h5>Thank you For Shopping With Us!!!!</h5></p>
 					<p><h5>Goods Once Sold Cannot Be Returned</h5></p>
