@@ -24,7 +24,8 @@
 
 				<!-- business information here -->
 				@if(!empty($receipt_details->display_name))
-					<span class="headings">
+{{--					<span class="headings">--}}
+					<span>
 						{{$receipt_details->display_name}}
 					</span>
 					<br/>
